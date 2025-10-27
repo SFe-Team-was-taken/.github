@@ -1,3 +1,3 @@
-# SFe
+# SFE
 
-Welcome to SFe, where we take soundfonts to new heights!
+Welcome to SFE, where we take soundfonts to new heights!
